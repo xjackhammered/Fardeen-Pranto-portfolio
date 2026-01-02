@@ -14,7 +14,7 @@ export default function NavBar() {
           <a href="/projects">Projects</a>
         </li>
         <li className="text-2xl font-serif hover:underline">
-          <a href="#contact">Contact</a>
+          <a href="/contact">Contact</a>
         </li>
       </ul>
     </nav>
