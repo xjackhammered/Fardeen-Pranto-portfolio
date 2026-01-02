@@ -11,7 +11,7 @@ export default function NavBar() {
           <Link to={'/about'}>About</Link>
         </li>
         <li className="text-2xl font-serif hover:underline">
-          <a href="#projects">Projects</a>
+          <a href="/projects">Projects</a>
         </li>
         <li className="text-2xl font-serif hover:underline">
           <a href="#contact">Contact</a>

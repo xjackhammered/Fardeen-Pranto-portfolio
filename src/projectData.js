@@ -1,4 +1,4 @@
-export const projects = [
+const projects = [
   {
     title: "Employee Management System",
     stack: "Django • SQLite",
@@ -24,3 +24,5 @@ export const projects = [
     live: ""
   }
 ];
+
+export default projects;
