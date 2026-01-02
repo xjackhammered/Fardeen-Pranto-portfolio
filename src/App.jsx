@@ -10,6 +10,7 @@ import Contact from "./Contact.jsx"
 
 function App() {
   const [info] = useState(heroData);
+  
 
   return (
     <>
