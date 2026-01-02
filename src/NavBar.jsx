@@ -11,10 +11,10 @@ export default function NavBar() {
           <Link to={'/about'}>About</Link>
         </li>
         <li className="text-2xl font-serif hover:underline">
-          <a href="/Fardeen-Pranto-portfolio/#/projects">Projects</a>
+          <Link to={'/projects'}>Projects</Link>
         </li>
         <li className="text-2xl font-serif hover:underline">
-          <a href="/Fardeen-Pranto-portfolio/#/contact">Contact</a>
+          <Link to={'/contact'}>Contact</Link>
         </li>
       </ul>
     </nav>
